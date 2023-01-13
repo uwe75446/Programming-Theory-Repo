@@ -9,6 +9,11 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Programming Theory Project/Library
+/Programming Theory Project/Logs
+/Programming Theory Project/Packages
+/Programming Theory Project/ProjectSettings
+/Programming Theory Project/Temp
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
